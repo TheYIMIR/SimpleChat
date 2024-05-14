@@ -1,0 +1,3 @@
+name: SimpleChat
+version: '${project.version}'
+main: de.sesosas.simplechat.SimpleChat
